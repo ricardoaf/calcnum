@@ -21,6 +21,9 @@
 - Apresentação/disponibilização do material de revisão sobre Álgebra Linear Numérica
   - 01/03 (EAMB018-A)
   - 02/03 (EPET019-A)
+- Elaboração de vídeos tutoriais:
+  - [Instalando Julia e Jupyter Notebook](https://youtu.be/-tTgn6Ry798)
+  - [[Tutorial] Revisão de Álgebra Linear na linguagem Julia](https://www.youtube.com/watch?v=ofboH_WbX4g)
 - Monitoria para tirar dúvidas sobre Álgebra Linear Numérica
   - 03/03 (EAMB018-A)
   - 04/03 (EPET019-A)
