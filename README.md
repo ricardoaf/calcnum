@@ -24,6 +24,11 @@
 - Elaboração de vídeos tutoriais:
   - [Instalando Julia e Jupyter Notebook](https://youtu.be/-tTgn6Ry798)
   - [[Tutorial] Revisão de Álgebra Linear na linguagem Julia](https://www.youtube.com/watch?v=ofboH_WbX4g)
-- Monitoria para tirar dúvidas sobre Álgebra Linear Numérica
+- Monitoria: Encontro síncrono para tirar dúvidas sobre Álgebra Linear Numérica
   - 03/03 (EAMB018-A)
   - 04/03 (EPET019-A)
+
+### Semana 3 (08/03/2021 - 14/03/2021)
+- Preparação de material com exemplos dos conteúdos em Julia
+  - [Zero de Funções](https://github.com/ricardoaf/calcnum/blob/main/fzero_julia.ipynb)
+  - [Sistemas de Equações Lineares (Métodos diretos)](https://github.com/ricardoaf/calcnum/blob/main/direct-linearsystem_julia.ipynb)
