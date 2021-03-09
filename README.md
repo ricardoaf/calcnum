@@ -29,6 +29,7 @@
   - 04/03 (EPET019-A)
 
 ### Semana 3 (08/03/2021 - 14/03/2021)
+- Atendimento assíncrono aos alunos para tirar dúvidas sobre exercícios de Álgebra Linear Numérica
 - Preparação de material com exemplos dos conteúdos em Julia
   - [Zero de Funções](https://github.com/ricardoaf/calcnum/blob/main/fzero_julia.ipynb)
   - [Sistemas de Equações Lineares (Métodos diretos)](https://github.com/ricardoaf/calcnum/blob/main/direct-linearsystem_julia.ipynb)
