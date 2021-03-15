@@ -33,3 +33,8 @@
 - Preparação de material com exemplos dos conteúdos em Julia
   - [Zero de Funções](https://github.com/ricardoaf/calcnum/blob/main/fzero_julia.ipynb)
   - [Sistemas de Equações Lineares (Métodos diretos)](https://github.com/ricardoaf/calcnum/blob/main/direct-linearsystem_julia.ipynb)
+
+### Semana 4 (15/03/2021 - 21/03/2021)
+- Preparação de material com as [respostas](https://github.com/ricardoaf/calcnum/blob/main/fzero_julia-solution.ipynb) da [lista de Zero de Funções](https://github.com/ricardoaf/calcnum/blob/main/Lista%2002%20-%20Ra%C3%ADzes%20de%20fun%C3%A7%C3%B5es%20-%20C%C3%A1lculo%20Num%C3%A9rico.pdf)
+
+
