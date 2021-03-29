@@ -36,5 +36,9 @@
 
 ### Semana 4 (15/03/2021 - 21/03/2021)
 - Preparação de material com as [respostas](https://github.com/ricardoaf/calcnum/blob/main/fzero_julia-solution.ipynb) da [lista de Zero de Funções](https://github.com/ricardoaf/calcnum/blob/main/Lista%2002%20-%20Ra%C3%ADzes%20de%20fun%C3%A7%C3%B5es%20-%20C%C3%A1lculo%20Num%C3%A9rico.pdf)
+- Adaptação de [exemplos de métodos indiretos para solução de sistemas de equações lineares](https://github.com/ricardoaf/calcnum/blob/main/gaussjacobi_gaussseidel.jl) mostados em sala de aula para linguagem Julia
+- Elaboração de lista de exercícios sobre [Sistema de Equações Não Lineares](https://github.com/ricardoaf/calcnum/blob/main/lista_senl.docx)
 
+### Semana 5 (22/03/2021 - 28/03/2021)
+- [Correção](https://github.com/ricardoaf/calcnum/blob/main/correcao-linalg.xlsx) da lista de Revisão de Álgebra Linear das turmas EAMB018-A e EPET019-A
 
