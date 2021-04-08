@@ -42,3 +42,12 @@
 ### Semana 5 (22/03/2021 - 28/03/2021)
 - [Correção](https://github.com/ricardoaf/calcnum/blob/main/correcao-linalg.xlsx) da lista de Revisão de Álgebra Linear das turmas EAMB018-A e EPET019-A
 
+### Semana 6 (29/03/2021 - 04/04/2021)
+- Apenas o acompanhamento regular da aula de Interpolação (ministrada pela Prof. Luciana)
+
+### Semana 7 (05/04/2021 - 11/04/2021)
+
+- Atividade de Monitoria com a turma EPET019-A (08/04/2021)
+  - Tira-dúvidas
+  - Elaboração de exemplo em Julia (Jupyter Notebook) sobre <SEL/SENL>
+- Elaboração de Atividade avaliativa para ser desenvolvida e apresentada posteriormente pelos alunos
