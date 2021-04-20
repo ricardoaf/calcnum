@@ -46,8 +46,21 @@
 - Apenas o acompanhamento regular da aula de Interpolação (ministrada pela Prof. Luciana)
 
 ### Semana 7 (05/04/2021 - 11/04/2021)
-
 - Atividade de Monitoria com a turma EPET019-A (08/04/2021)
   - Tira-dúvidas
-  - Elaboração de exemplo em Julia (Jupyter Notebook) sobre <SEL/SENL>
-- Elaboração de Atividade avaliativa para ser desenvolvida e apresentada posteriormente pelos alunos
+  - Elaboração de exemplo em Julia (Jupyter Notebook) sobre [Newton-Raphson](https://github.com/ricardoaf/calcnum/blob/main/SENLnr.ipynb) para resolução de sistemas de equações não lineares
+  - Consolição de [documento com os exercícios resolvidos](https://github.com/ricardoaf/calcnum/blob/main/calcnum-monitoria-08042021.pdf) na monitoria juntamente com os outros estagiários.
+
+### Semana 8 (12/04/2021 - 18/04/2021)
+- Elaboração de projeto avaliativo para composição da nota da AB1
+  - [Projeto EAMB018-A](https://github.com/ricardoaf/calcnum/blob/main/Trabalho-AB1-EAMB018A.pdf)
+  - [Projeto EPET019-A](https://github.com/ricardoaf/calcnum/blob/main/Trabalho-AB1-EPET019A.pdf)
+
+### Semana 9 (19/04/2021 - 25/04/2021)
+- Encontro síncrono com as turmas para explicação/divulgação do projeto avaliativo:
+  - EAMB018-A - 19/04
+  - EPET019-A - 20/04
+- Elaboração de [lista]() e [gabarito]() sobre integração numérica
+
+### Semana 10 (26/04/2021 - 02/05/2021)
+- Monitoria agendada para tirar dúvidas da turma EPET019-A sobre o projeto avaliativo (27/04/2021)
