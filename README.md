@@ -55,6 +55,7 @@
 - Elaboração de projeto avaliativo para composição da nota da AB1
   - [Projeto EAMB018-A](https://github.com/ricardoaf/calcnum/blob/main/Trabalho-AB1-EAMB018A.pdf)
   - [Projeto EPET019-A](https://github.com/ricardoaf/calcnum/blob/main/Trabalho-AB1-EPET019A.pdf)
+  - Gabarito: [Jupyter](https://github.com/ricardoaf/calcnum/blob/main/SELAB1-GABARITO-N%C3%83O-DIVULGAR.ipynb), [PDF](https://github.com/ricardoaf/calcnum/blob/main/SELAB1-GABARITO-NAO-DIVULGAR.pdf)
 
 ### Semana 9 (19/04/2021 - 25/04/2021)
 - Encontro síncrono com as turmas para explicação/divulgação do projeto avaliativo:
@@ -63,4 +64,6 @@
 - Elaboração de [lista]() e [gabarito]() sobre integração numérica
 
 ### Semana 10 (26/04/2021 - 02/05/2021)
-- Monitoria agendada para tirar dúvidas da turma EPET019-A sobre o projeto avaliativo (27/04/2021)
+- Monitoria para tirar dúvidas da turma EPET019-A sobre o projeto avaliativo - 27/04
+  - Material disponibilizado aos alunos: [Jupyter](https://github.com/ricardoaf/calcnum/blob/main/calcnum-monitoria-27042021.ipynb), [PDF](https://github.com/ricardoaf/calcnum/blob/main/calcnum-monitoria-27042021.pdf)
+- Agendada monitoria para tirar dúvidas da turma EAMB018-A sobre o projeto avaliativo - 28/04
