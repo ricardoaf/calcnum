@@ -66,4 +66,5 @@
 ### Semana 10 (26/04/2021 - 02/05/2021)
 - Monitoria para tirar dúvidas da turma EPET019-A sobre o projeto avaliativo - 27/04
   - Material disponibilizado aos alunos: [Jupyter](https://github.com/ricardoaf/calcnum/blob/main/calcnum-monitoria-27042021.ipynb), [PDF](https://github.com/ricardoaf/calcnum/blob/main/calcnum-monitoria-27042021.pdf)
-- Agendada monitoria para tirar dúvidas da turma EAMB018-A sobre o projeto avaliativo - 28/04
+- Monitoria para tirar dúvidas da turma EAMB018-A sobre o projeto avaliativo - 28/04
+  - Material disponibilizado aos alunos: [Jupyter](https://github.com/ricardoaf/calcnum/blob/main/calcnum-monitoria-28042021.ipynb), [PDF](https://github.com/ricardoaf/calcnum/blob/main/calcnum-monitoria-28042021.pdf)
