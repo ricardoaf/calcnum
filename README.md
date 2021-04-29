@@ -61,10 +61,11 @@
 - Encontro síncrono com as turmas para explicação/divulgação do projeto avaliativo:
   - EAMB018-A - 19/04
   - EPET019-A - 20/04
-- Elaboração de [lista]() e [gabarito]() sobre integração numérica
+- Elaboração de lista sobre integração numérica
 
 ### Semana 10 (26/04/2021 - 02/05/2021)
 - Monitoria para tirar dúvidas da turma EPET019-A sobre o projeto avaliativo - 27/04
   - Material disponibilizado aos alunos: [Jupyter](https://github.com/ricardoaf/calcnum/blob/main/calcnum-monitoria-27042021.ipynb), [PDF](https://github.com/ricardoaf/calcnum/blob/main/calcnum-monitoria-27042021.pdf)
 - Monitoria para tirar dúvidas da turma EAMB018-A sobre o projeto avaliativo - 28/04
   - Material disponibilizado aos alunos: [Jupyter](https://github.com/ricardoaf/calcnum/blob/main/calcnum-monitoria-28042021.ipynb), [PDF](https://github.com/ricardoaf/calcnum/blob/main/calcnum-monitoria-28042021.pdf)
+- Preparação da lista 05 sobre integração e diferenciação numéricas: [DOCX](https://github.com/ricardoaf/calcnum/blob/main/Lista%2005%20-%20Integra%C3%A7%C3%A3o%20e%20Diferencia%C3%A7%C3%A3o%20Num%C3%A9rica.docx) [PDF](https://github.com/ricardoaf/calcnum/blob/main/Lista%2005%20-%20Integra%C3%A7%C3%A3o%20e%20Diferencia%C3%A7%C3%A3o%20Num%C3%A9rica.pdf) [GABARITO](https://github.com/ricardoaf/calcnum/blob/main/cn_int-diff_ref.ipynb)
