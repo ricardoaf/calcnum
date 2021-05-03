@@ -71,4 +71,4 @@
 - Preparação da lista 05 sobre integração e diferenciação numéricas: [DOCX](https://github.com/ricardoaf/calcnum/blob/main/Lista%2005%20-%20Integra%C3%A7%C3%A3o%20e%20Diferencia%C3%A7%C3%A3o%20Num%C3%A9rica.docx) [PDF](https://github.com/ricardoaf/calcnum/blob/main/Lista%2005%20-%20Integra%C3%A7%C3%A3o%20e%20Diferencia%C3%A7%C3%A3o%20Num%C3%A9rica.pdf) [GABARITO](https://github.com/ricardoaf/calcnum/blob/main/cn_int-diff_ref.ipynb)
 
 ### Semana 11 (03/05/2021 - 09/05/2021)
-- Monitoria para tirar dúvidas da turma EAMB019-A sobre o projeto da AB1 - 03/05
+- Monitoria para tirar dúvidas da turma EAMB018-A sobre o projeto da AB1 - 03/05
