@@ -72,3 +72,17 @@
 
 ### Semana 11 (03/05/2021 - 09/05/2021)
 - Monitoria para tirar dúvidas da turma EAMB018-A sobre o projeto da AB1 - 03/05
+- Monitoria para tirar dúvidas da turma EPET019-A sobre o projeto da AB1 - 04/05
+
+### Semana 12 (10/05/2021 - 16/05/2021)
+- Avaliação das apresentações dos trabalhos da AB1 (EAMB018-A) - 12/05
+- Avaliação das apresentações dos trabalhos da AB1 (EPET019-A) - 13/05
+
+### Semana 13 (17/05/2021 - 23/05/2021)
+- Elaboração do trabalho sobre método de Euler, referente a AB2 [DOCX](https://github.com/ricardoaf/calcnum/blob/main/ab2.docx), [PDF/EAMB018-A](https://github.com/ricardoaf/calcnum/blob/main/EAMB018_Trabalho2.pdf), [PDF/EPET019-A](https://github.com/ricardoaf/calcnum/blob/main/EPET019A_Trabalho2.pdf)
+- Divulgação e explicação sobre o trabalho da AB2 (EAMB018-A) - 17/05
+- Divulgação e explicação sobre o trabalho da AB2 (EPET019-A) - 18/05 
+
+### Semana 14 (24/05/2021 - 30/05/2021)
+- Monitoria para tirar dúvidas sobre o trabalho da AB2 (EPET019-A) - 25/05
+- Correção da lista 05 sobre integração e diferenciação numéricas (a ser realizada)
